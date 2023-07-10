@@ -2,6 +2,7 @@
 
 For Eudic (MDD format)
 - [Longman Dictionary of Contemporary English (LDOCE) En-Cn 5++ Version: 1.35](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/LDOCE-v20180129)
+- [Longman Dictionary of Contemporary English (LDOCE) En-Cn 5++ Version: 2.15](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/LDOCE-v2.15)
 - [Longman Dictionary of Contemporary English 6th Edition](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/longman_dictionary_of_contemporary_english_6th_edition)
 - [English Etymology (etymonline.com)](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/etymonline)
 - [Vocabulary.com Dictionary](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/Vocabulary.com-v20180417)
