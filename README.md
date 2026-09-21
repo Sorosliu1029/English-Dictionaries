@@ -13,6 +13,7 @@ For Eudic (MDD format)
 - [Collins COBUILD Dictionary Overhaul Version: 2.30](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/Collins-v20180819)
 - [Oxford Collocations Dictionary for Students of English, 2nd edition](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/OCDE-v20140905)
 - [Macmillan English Dictionary for Advanced Learners 2nd Edition](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/Macmillan-v20111120)
+- [Merriam-Webster’s Advanced Learner’s English-Chinese Dictionary](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/mw-eng-chn)
 
 For macOS native dictionary
 - [Macmillan](https://github.com/Sorosliu1029/English-Dictionaries/releases/tag/macos-native-dictionary-macmillan2)
